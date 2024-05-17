@@ -11,7 +11,7 @@
     <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
   <a href="https://www.medium.com/@derekkipkemoi">
-    <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&show_icons=true&theme=radical"/>
   </a>
 </div>
 
