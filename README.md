@@ -34,6 +34,6 @@
 
 # GitHub Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=derekkipkemoi&show_icons=true&theme=transparent"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=derekkipkemoi&show_icons=true&theme=radical"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekkipkemoi&layout=compact"/>
