@@ -28,7 +28,7 @@
 # Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,idea,kotlin,ktor,java,js,react,mongodb,git,docker,stackoverflow,gcp,linux,materialui,html,bootstrap,css" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,gradle,idea,kotlin,ktor,java,git,docker,stackoverflow,linux,materialui,html" />
   </a>
 </p>
 
