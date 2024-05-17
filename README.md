@@ -17,7 +17,7 @@
 
 
 #
-<h5>A results-driven Software Engineer who can think “out of the box”. Love creating software solutions. 3+ years of experience in Mobile app development (Android native + KMP). Expert in Kotlin, Java, Kotlin Multiplatform and Jetpack Compose. Clean Architecture Lover. </h5>
+<h5>A results-driven Software Engineer who can think “out of the box”. Love creating software solutions. 3+ years of experience in Mobile app development (Android native). Expert in Kotlin, Java and Jetpack Compose. Clean Architecture Lover. </h5>
 
 * I’m currently working as a mobile app developer
 
